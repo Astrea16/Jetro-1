@@ -233,6 +233,7 @@ body._lock {
   max-width: 971px;
   padding: 0 15px;
   margin: 0 auto;
+  
 }
 
 .button {
@@ -2219,6 +2220,10 @@ body.ie ._ibg img {
 }
 
 @media (max-width: 767.98px) {
+	._container{
+		padding: 0 10px;
+	}
+	
   .input_fm {
     width: 75%;
   }
